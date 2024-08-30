@@ -1,0 +1,18 @@
+.add-new {
+    padding: 15px 10px;
+    display: flex;
+    align-items: center;
+}
+
+.add-new input {
+    margin-right: 10px;
+}
+.refresh{
+    cursor: pointer;
+    color:white;
+    font-size: .8em;
+    background-color: rgb(7, 115, 230);
+    border-radius: 2px;
+    padding:5px;
+    width:40px;
+}
